@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/empireapplications/static/css/main.455bab9d.css",
-    "main.js": "/empireapplications/static/js/main.f3d2b688.js",
+    "main.js": "/empireapplications/static/js/main.7f9b2140.js",
     "static/media/background.png": "/empireapplications/static/media/background.18e46db1b6cdb4a184ff.png",
     "static/media/glass.png": "/empireapplications/static/media/glass.493eaf37d6b6c570b527.png",
     "static/media/montserrat-latin-700italic.woff": "/empireapplications/static/media/montserrat-latin-700italic.6779372f04095051c62e.woff",
@@ -45,10 +45,10 @@
     "static/media/pin.png": "/empireapplications/static/media/pin.0e41858db80c699cd8a2.png",
     "index.html": "/empireapplications/index.html",
     "main.455bab9d.css.map": "/empireapplications/static/css/main.455bab9d.css.map",
-    "main.f3d2b688.js.map": "/empireapplications/static/js/main.f3d2b688.js.map"
+    "main.7f9b2140.js.map": "/empireapplications/static/js/main.7f9b2140.js.map"
   },
   "entrypoints": [
     "static/css/main.455bab9d.css",
-    "static/js/main.f3d2b688.js"
+    "static/js/main.7f9b2140.js"
   ]
 }

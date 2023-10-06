@@ -1,0 +1,8 @@
+/* src/App.css */
+.hero-background {
+    background-image: url('./assets/background.png');
+    background-size: cover; /* Cover the entire element */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-position: center; /* Center the image */
+  }
+  

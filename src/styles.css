@@ -1,0 +1,62 @@
+/* styles.css */
+.shadow-centered {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+.apply-button {
+    background-color: #E9B10E;
+}
+
+.apply-button:hover {
+    background-color: #d9a10e; /* Darker shade for hover effect, adjust as necessary */
+}
+
+.job-application-container {
+  position: relative;
+}
+
+.MuiButton-colorSecondary {
+  background-color: red;
+  color: white;
+}
+
+.application-entry.expanded {
+  border-top: 1px solid #DBDADA;
+  border-bottom: 1px solid #DBDADA;
+}
+
+.apply-button {
+  position: absolute;
+  bottom: 16px;  /* Adjust as necessary */
+  right: 16px;   /* Adjust as necessary */
+  background-color: #E9B10E;
+}
+
+.apply-button2{
+  background-color: #E9B10E;
+}
+
+/* styles.css */
+@media (max-width: 768px) {
+  .hide-on-mobile {
+     display: none;
+  }
+}
+
+
+.apply-button2:hover {
+  background-color: #d9a10e;  /* Darker shade for hover effect, adjust as necessary */
+}
+.apply-button:hover {
+  background-color: #d9a10e;  /* Darker shade for hover effect, adjust as necessary */
+}
+
+
+.hover\:group:hover .group-hover\:translate-x-2 {
+  transform: translateX(0.5rem);
+}
+
+/* Transition transform */
+.transition-transform {
+  transition: transform 0.3s ease-in-out;
+}
